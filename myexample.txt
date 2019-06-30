@@ -1,1 +1,7 @@
 CHANGE.
+
+Hey nerd,
+
+This is how someone can fork your code to their own repo copy and then suggest changes for you to approve and merge into your repo. This is how developers work together. But in this case I am just showing you a demo while being a jerk.
+
+<3
